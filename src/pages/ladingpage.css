@@ -1,0 +1,31 @@
+.landing{
+  background-image: url(https://t3.ftcdn.net/jpg/01/77/64/28/360_F_177642837_y3v0oUFNMDC2xW2N1incgPQcXZCzGtb5.jpg);
+  height: 100vh;
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+
+}
+.formbg{
+    background-image: url(https://img.freepik.com/free-vector/gradient-neon-light-background_23-2149332915.jpg);
+    background-size: cover;
+  background-position:center;
+}
+
+.form2bg{
+    background-image: url(https://img.freepik.com/free-vector/abstract-sport-background-flat-style_23-2148212581.jpg);
+    background-size: cover;
+  background-position:center;
+
+}
+.form3bg{
+    /* background-image: url(https://i.pinimg.com/736x/d2/aa/87/d2aa87ced1d4706a758c661b7fff1ca3.jpg); */
+    background-color: rgba(0, 0, 0, 0.742);
+    background-size: cover;
+  background-position:center;
+
+}
+.form4bg{
+  background-color: rgba(0, 0, 0, 0.589);
+}

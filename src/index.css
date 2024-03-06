@@ -1,13 +1,44 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.dashbg1{
+    background-image: url(https://img.freepik.com/premium-photo/blurred-colorful-wallpaper-background_976742-179.jpg);
+    background-size: cover;
+    background-position:center;
+}
+.dashbg2{
+    background-color: rgba(255, 255, 255, 0.366);
+    border-radius: 20px;
+}
+.mobilebg1{
+    background-image: url(https://earthbuddies.net/wp-content/uploads/2022/03/AdobeStock_246948710.jpeg);
+    background-size: cover;
+    background-position:center;
+}
+.servicebg{
+    background-image: url(https://images.ctfassets.net/16nm6vz43ids/1Y9mnv1Wj3hxH8MOwgXwae/53fda51510f32378e1a72b7c88994ad0/Repair_or_replace_your_phone.png);
+    background-size: cover;
+   background-repeat: no-repeat;
+   background-position:center;
+}
+.servicebg2{
+    background-color: rgba(255, 255, 255, 0.714);
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.laptopbg1{
+    background-image: url(https://www.shutterstock.com/image-photo/master-unscrews-detail-broken-laptop-600nw-2280962703.jpg);
+    background-size: cover;
+    background-position:center;
+}
+.servicelapbg{
+    background-image: url(https://www.shutterstock.com/image-photo/master-unscrews-detail-broken-laptop-600nw-2280962703.jpg);
+    background-size: cover;
+   background-repeat: no-repeat;
+   background-position:center;
+}
+.servicelapbg2{
+    background-color: rgba(255, 255, 255, 0.714);
+}
+.dashboardimg{
+    background-image: url(https://img.freepik.com/premium-photo/elevated-view-computer-circuit-boards-chip-with-tools-wooden-background_23-2147922255.jpg);
+    background-size: cover;
+   background-repeat: no-repeat;
+   background-position:center;
 }
